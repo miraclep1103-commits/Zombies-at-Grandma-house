@@ -1,0 +1,15 @@
+{
+  "id": "world_066",
+  "name": "MIRACLE — Starter Project",
+  "author": "Teacher starter for MIRACLE",
+  "description": "Find the key and escape a pursuing threat.",
+  "iconColor": "purple",
+  "position": {
+    "x": 704,
+    "y": 384
+  },
+  "width": 32,
+  "height": 32,
+  "levelId": "world_066_level",
+  "rewardId": "key_world_066"
+}
