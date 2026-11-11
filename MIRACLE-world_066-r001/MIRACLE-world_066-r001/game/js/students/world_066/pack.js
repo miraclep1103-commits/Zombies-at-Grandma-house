@@ -75,7 +75,7 @@ registerStudentPack({
     "mission": {
       "speaker": "Guide",
       "lines": [
-        "Find the key and reach the gold exit before time expires.",
+        "hello Find the key and reach the gold exit before time expires.",
         "Move with WASD/arrows. Space jumps.",
         "The threat chases when it sees you. Cover blocks its view.",
         "Q flashes a nearby threat, stunning it briefly. The flash must recharge.",
