@@ -73,7 +73,7 @@ registerStudentPack({
   },
   "dialogue": {
     "mission": {
-      "speaker": "Guide",
+      "speaker": "Town Guide",
       "lines": [
         "hello Find the key and reach the gold exit before time expires.",
         "Move with WASD/arrows. Space jumps.",
