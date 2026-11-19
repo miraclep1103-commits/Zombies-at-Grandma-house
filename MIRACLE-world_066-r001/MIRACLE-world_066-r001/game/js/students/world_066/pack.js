@@ -80,7 +80,8 @@ registerStudentPack({
         "The threat chases when it sees you. Cover blocks its view.",
         "Q flashes a nearby threat, stunning it briefly. The flash must recharge.",
         "Stand fully inside a green refuge and hold H to hide. Release H to move.",
-        "Hiding does not stop the escape clock. R retries; Escape returns home."
+        "Hiding does not stop the escape clock. R retries; Escape returns home.",
+        "see you  later"
       ]
     }
   },
