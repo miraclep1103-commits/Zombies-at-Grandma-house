@@ -93,7 +93,7 @@ registerStudentPack({
     "height": 640,
     "spawn": {
       "x": 96,
-      "y": 532
+      "y": 32
     },
     "solids": [
       {
